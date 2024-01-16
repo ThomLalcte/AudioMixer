@@ -1,0 +1,5 @@
+*.zip
+AudioMixer-backups/
+AudioMixer-rounded-backups/
+fp-info-cache
+AudioMixer.svg
